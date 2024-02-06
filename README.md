@@ -1,6 +1,7 @@
 # Comparing-Social-media-and-Google-to-detect-and-predict-severe-epidemics
-Short descripcion
 ## Description
+Internet surveillance system: the use of Google and Twitter data to predict severe epidemics using an influenza case study.
+## Extented description
 Internet technologies have demonstrated their value for the early detection and prediction of epidemics. In diverse cases, electronic surveillance systems can be created by obtaining and analyzing on-line data, complementing other existing monitoring resources. This code allows to analyze data on influenza in Greece have been collected from Google and Twitter, comparing to influenza data from the official authority of Europe. 
 Analysis uses two models: the ARIMA model computed estimations based on weekly sums and a customized approximate model which uses daily sums.
 ## Publication with results and details about efficiency and accuracy
